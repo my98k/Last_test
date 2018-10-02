@@ -4,6 +4,7 @@ public class Controller {
         System.out.println("小猪佩奇");
         System.out.println("小兔子乖乖");
         System.out.println("把门开开");
+        System.out.println("结束了吗?");
         System.out.println("结束了");
     }
 }
